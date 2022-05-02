@@ -10,7 +10,7 @@
 ### Rest Easy Now Let Vexana Manage your group. 
 <p align="center"><a href=><img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://github.com/aksr-aashish/vexanay"> <img src="https://img.shields.io/github/repo-size/aksr-aashish/vexana?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/aksr-aashish/vexana"> <img src="https://img.shields.io/github/repo-size/aksr-aashish/vexana?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/aksr-aashish/vexana/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/aksr-aashish/vexana?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/aksr-aashish/vexana/issues"> <img src="https://img.shields.io/github/issues/aksr-aashish/vexana?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/aksr-aashish/vexana/network/members"> <img src="https://img.shields.io/github/forks/aksr-aashish/vexana?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  

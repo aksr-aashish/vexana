@@ -248,7 +248,7 @@ s if so it won't effect the real Vexana speed or your Private info.
 
 ### Wanna Contribute? 
 
-•If you wanna contribute to Vexana now Just go To The [Vexana Support Group](https://t.me/vexana_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
+•If you wanna contribute to Vexana now Just go To The [Vexana Support Group](https://t.me/vexana_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Vexana with Proper credits. 
 
 ### Before Going to Support Group -
 

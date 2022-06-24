@@ -238,17 +238,17 @@ Axel@MacBook~ $ bash start
 <a href="https://t.me/vexana_support"><img src="https://img.shields.io/badge/Join-Support%20Group-purple.svg?logo=telegram"></a>
 
 ### Original Repo?📌
-•Original Repository of MizuharaSmexyBot Is now private there's no way you can find it anywhere now!
-If Someone's providing you the repository of mizuhara and saying this is the real one... He/She is scamming you for sure. Don't believe strangers on internet and Don't let them scam you.
+•Original Repository ofVexana Bot Is now private there's no way you can find it anywhere now!
+If Someone's providing you the repository ofvexana and saying this is the real one... He/She is scamming you for sure. Don't believe strangers on internet and Don't let them scam you.
 
 ### Reason For Private Repo
 
-•Due to the so many kangers on telegram we decided to make Mizuhara's repo private.A
-s if so it won't effect the real Mizuhara speed or your Private info. 
+•Due to the so many kangers on telegram we decided to make Vexana's repo private.A
+s if so it won't effect the real Vexana speed or your Private info. 
 
 ### Wanna Contribute? 
 
-•If you wanna contribute to Mizuhara now Just go To The [Vexana Support Group](https://t.me/vexana_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
+•If you wanna contribute to Vexana now Just go To The [Vexana Support Group](https://t.me/vexana_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
 
 ### Before Going to Support Group -
 
